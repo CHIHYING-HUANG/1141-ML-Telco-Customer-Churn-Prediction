@@ -48,3 +48,7 @@
   - 第二部分：我的實驗記錄 (My Experiment Log) (3分)  
   - 第三部分：總結與心得 (Conclusion & Reflection) (2分)  
   （請參考`sample_code.ipynb`的報告部分）
+
+ **提醒** 
+  -  kaggle 名稱要用學號
+  -  報告分數要用kaggle上設為 public（公開） 的分數
